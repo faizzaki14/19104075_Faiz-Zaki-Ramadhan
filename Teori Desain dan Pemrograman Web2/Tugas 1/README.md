@@ -30,5 +30,8 @@
 7.  Tampilan Galeri dan Video
     ![Content6](https://user-images.githubusercontent.com/56437913/137437367-0e307513-652b-4d7a-b88a-e86d7551f76b.png)
 
-8.  Tampilan Footer
+8.  Tampilan Footer1
+    ![footer2](https://user-images.githubusercontent.com/56437913/137583135-acf76421-397d-498a-a1cc-a6ba5ac9f042.png)
+
+9.  Tampilan Footer2
     ![Footer](https://user-images.githubusercontent.com/56437913/137437370-ce71f3ca-4384-4be5-b3a0-73ca940daf9a.png)
